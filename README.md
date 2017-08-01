@@ -29,5 +29,5 @@ Give a brief overview of any statistical analysis you used in your project. This
 ## Conclusion 
 A brief conclusion relating to your statistical analysis as well as any key takeaways relating to the project as a whole (lessons learned, potential drawbacks, future expansion ideas). 
 
-## To-Do list
+## To-Do List
 This can be created anywhere in the repo, but include a to-do list to help you and your teammates check yourselves in check. 

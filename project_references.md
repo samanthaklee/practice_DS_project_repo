@@ -9,5 +9,6 @@
 - [Natural Language Processing](https://github.com/UCSB-dataScience-ProjectGroup/nlpgroup)
 
 #### R projects
+- [Contraceptive Methods Prediction](https://github.com/samanthaklee/contraceptiveMethodsPrediction/blob/master/pstat131finalProject.Rmd)
 - [Presidential Election Visualization](https://github.com/UCSB-dataScience-ProjectGroup/election)
 - [Craft Beers Visualization](https://github.com/amilworks/Craft_Beers)
